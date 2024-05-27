@@ -1,0 +1,14 @@
+
+
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related prod APIs "
+  contactDetails:
+    name: "prod prod - Developer"
+    email: "QA@QA.com"
+  onCallSupport:
+    - (555) 557-7895
+    - (555) 523-7896
+
