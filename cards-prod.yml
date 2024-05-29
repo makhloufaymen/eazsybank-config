@@ -4,7 +4,7 @@ build:
   version: "1.47474747"
 
 cards:
-  message: "Welcome to EazyBank cards related webhook!!!!!APIs "
+  message: "Welcome to EazyBank cards related PIs "
   contactDetails:
     name: "Sandra Harald - Product Owner"
     email: "sandra@eazybank.com"
