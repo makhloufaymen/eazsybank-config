@@ -4,7 +4,7 @@ build:
   version: "1.5"
 
 accounts:
-  message: "Welcome to EazyBank accounts related prod APIs "
+  message: "Welcome to EazyBank accounts related prodddd APIs "
   contactDetails:
     name: "prod prod - Developer"
     email: "QA@QA.com"
