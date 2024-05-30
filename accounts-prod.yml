@@ -1,7 +1,5 @@
-
-
 build:
-  version: "1.4546464ds64dqssdqs"
+  version: "1.0"
 
 accounts:
   message: "Welcome to EazyBank accounts related prodddd APIs "
